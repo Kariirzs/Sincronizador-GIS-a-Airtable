@@ -1,0 +1,10 @@
+.env
+
+cache_state.json
+.venv/
+ENV/
+
+.idea/
+.DS_Store
+*.log
+__pycache__/
